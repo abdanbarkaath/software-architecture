@@ -2,9 +2,6 @@
 # Clone the Repository
 git clone <your-repo-url>
 
-# Navigate to the Project Directory
-cd mysite
-
 # Start the Django Server
 python manage.py runserver
 
